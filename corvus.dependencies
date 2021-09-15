@@ -1,0 +1,20 @@
+[
+  {
+    "repository" : "CorvusRom-Devices/device_xiaomi_laurel_sprout",
+    "target_path": "device/xiaomi/laurel_sprout",
+    "branch"     : "11",
+    "remote"     : "github"
+  },
+  {
+    "repository": "CorvusRom-Devices/kernel_xiaomi_laurel_sprout",
+    "target_path": "kernel/xiaomi/laurel_sprout",
+    "branch": "lineage-18.1",
+    "remote": "github" 
+  },
+  {
+    "repository": "CorvusRom-Devices/vendor_xiaomi_laurel_sprout",
+    "target_path": "vendor/xiaomi/laurel_sprout",
+    "branch": "elle",
+    "remote": "github"
+  }
+]

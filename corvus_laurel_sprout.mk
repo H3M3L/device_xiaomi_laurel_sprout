@@ -23,8 +23,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_p.mk)
 $(call inherit-product, vendor/corvus/config/common_full_phone.mk)
 
 # Corvus Official
-RAVEN_LAIR=Official
 CORVUS_MAINTAINER := H3M3L
+RAVEN_LAIR := Official
 
 # FaceUnlock
 TARGET_FACE_UNLOCK_SUPPORTED := true
